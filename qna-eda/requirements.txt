@@ -2,3 +2,6 @@ jupyter
 pandas
 openpyxl
 matplotlib
+openai
+scikit-learn
+networkx
